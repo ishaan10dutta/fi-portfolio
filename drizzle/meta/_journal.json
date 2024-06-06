@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717670342011,
+      "tag": "0000_chief_paladin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717671971240,
+      "tag": "0001_nervous_wendell_vaughn",
+      "breakpoints": true
+    }
+  ]
+}
